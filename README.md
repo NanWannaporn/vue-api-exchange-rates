@@ -36,4 +36,4 @@ npm run build
 4. computed
 5. onMounter
 6. Tailwindcss
-7. 
+
