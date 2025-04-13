@@ -34,3 +34,6 @@ npm run build
 2. axios
 3. ref
 4. computed
+5. onMounter
+6. Tailwindcss
+7. 
